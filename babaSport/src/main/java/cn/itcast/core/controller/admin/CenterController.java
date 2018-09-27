@@ -1,4 +1,4 @@
-package cn.itcast.core.controller;
+package cn.itcast.core.controller.admin;
 
 import java.util.Date;
 
@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RequestMapping;
  *
  */
 @Controller
-public class ProductController {
+public class CenterController {
 	public String name() {
 		return "";
 	}
