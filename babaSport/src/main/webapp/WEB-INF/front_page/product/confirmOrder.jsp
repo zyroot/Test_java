@@ -5,9 +5,9 @@
 <html>
 <head>
 <title>成功提交订单</title>
-<link rel="stylesheet" href="/res/css/style.css" />
-<script src="/res/js/jquery.js"></script>
-<script src="/res/js/com.js"></script>
+<link rel="stylesheet" href="/babaSport/res/css/style.css" />
+<script src="/babaSport/resjs/jquery.js"></script>
+<script src="/babaSport/resjs/com.js"></script>
 </head>
 <body>
 <div class="bar"><div class="bar_w">
